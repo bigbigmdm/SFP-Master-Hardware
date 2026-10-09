@@ -65,7 +65,7 @@ Bill of material:
 |:---:| :---                 | :---      | :---          |  :---:   |   :---:   |
 |  1  | 100nF                | C1,C2,C4  | C0805         |     3    | [Link](https://www.lcsc.com/product-detail/C344180.html?s_z=s_q_t_100NF%2520C0805) |
 |  2  | 15pF                 | C5,C6     | C0805         |     2    | [Link](https://www.lcsc.com/product-detail/C2171919.html?s_z=n_q_t_15PF%2520C0805) |
-|  3  | 5A                   | F1        | F0805         |     1    | {Link](https://www.lcsc.com/product-detail/C3159342.html) |
+|  3  | 5A                   | F1        | F0805         |     1    | [Link](https://www.lcsc.com/product-detail/C3159342.html) |
 |  4  | XDZ254-1-02-Z-2.5-G1 | J1,J2,J3  | PZ254V-11-02P |     3    | [Link](https://www.lcsc.com/product-detail/C492401.html?s_z=n_q_l_HDR-TH_4P-P2.54-V-M) |
 |  5  | SFP插座-20PINSFP 	   | P1        | KSP20LG154    |     1    | [Link](https://www.lcsc.com/product-detail/C404108.html?s_z=n_q_t_SFP) |
 |  6  | 4.7kΩ	               | R1,R2,R3  | R0805         |     3    | [Link](https://www.lcsc.com/product-detail/C19696946.html?s_z=n_q_t_resistor%2520smd) |
