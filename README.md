@@ -76,3 +76,4 @@ Bill of material:
 | 11  | RUN                  | LED2      | LED0805       |     1    | [Link](https://www.lcsc.com/product-detail/C19171391.html) |
 
 
+To be continued ...
