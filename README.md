@@ -12,6 +12,7 @@ The hardware part of SFP-Master can be assembling in two variants:
 ## Adapter
 
 ![Adapter](img/adapter_h.png)
+
 This adapter must be connected to the section of the CH341 programmer's ZIF socket marked with the "24xx" symbols. At the same time, the ZIF socket lever must fit into the oval cutout on the adapter board.
 
 ![Connection](img/connection.jpg)
@@ -47,3 +48,20 @@ You can view this project in OSHWLab (EasyEDA) [here](https://oshwlab.com/einkre
 ## SFP-master device
 
 ![Adapter](img/sfp-master-device.png)
+
+### Schematic diagram
+
+![SFP-Master schematic](img/sfp-master-device-sch.png)
+
+The `SFP-master` device utilized the `CH341A` USB-to-I2C converter chip manufactured by Nanjing Qinheng Microelectronics Co., Ltd.,
+connected according to the standard circuit configuration.
+Jumpers J1 to J3 (TxPWR, RxPWR, TxEN) must be installed initially. They are used to supply power to the SFP module. 
+If you want to programm a module with hardware write protection, remove one of the jumpers and try to programm the module. 
+If it fails, remove the other jumper and repeat the operation.
+
+Bill of material:
+
+| ID  |  Name                | Footprint | Designator    | Quantity | LCSC link |
+|:---:| :---                 | :---      | :---          |  :---:   |   :---:   |
+| 1   | 100nF                | C1,C2,C4  | C0805         |     3    | {Link](https://www.lcsc.com/product-detail/C344180.html?s_z=s_q_t_100NF%2520C0805) |
+
