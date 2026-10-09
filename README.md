@@ -22,6 +22,10 @@ This adapter must be connected to the section of the CH341 programmer's ZIF sock
 
 Jumpers J1 to J3 (TxPWR, RxPWR, TxEN) must be installed initially. They are used to supply power to the SFP module. If you want to program a module with hardware write protection, remove one of the jumpers and try to program the module. If it fails, remove the other jumper and repeat the operation.
 
+### Printed circuit board
+
+![PCB](img/sfp-adapter-pcb.png)
+
 ## SFP-master device
 
 ![Adapter](img/sfp-master-device.png)
