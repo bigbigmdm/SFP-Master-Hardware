@@ -74,6 +74,9 @@ Bill of material:
 |  9  | U-USBAR04P-M002      | USB2      | USB-A-TH_U-USBAR04P-M002| 1 | [Link](https://www.lcsc.com/product-detail/C404965.html) |
 | 10  | POWER                | LED1      | LED0805       |     1    | [Link](https://www.lcsc.com/product-detail/C19171391.html) |
 | 11  | RUN                  | LED2      | LED0805       |     1    | [Link](https://www.lcsc.com/product-detail/C19171391.html) |
+| 12  | 12MHz                | X1        | HC-49US_L11.5-W4.5-P4.88 | 1 | [Link](https://www.lcsc.com/product-detail/C7471636.html) |
+| 13  | 2.2kΩ                | R5,R6,R4  | R0805         |     3    | [Link](https://www.lcsc.com/product-detail/C2907234.html) |
+| 14  | CH341A               | U4        | SOIC-28_L17.9-W7.5-P1.27-LS10.3-BL | 1 | [Link](https://www.lcsc.com/product-detail/C13517.html) |
 
 
 To be continued ...
