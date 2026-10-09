@@ -24,18 +24,25 @@ Jumpers J1 to J3 (TxPWR, RxPWR, TxEN) must be installed initially. They are used
 
 Bill of material:
 
-| ID  |  Name                | Footprint | Designator          | Quantity | LCSC link |
-|:---:| :---                 | :---      | :---                |  :---:   |   :---:   |
-|  1  |  P1                  | H1        | HDR-TH_4P-P2.54-V-M |     1    | [Link](https://www.lcsc.com/product-detail/C2691448.html?s_z=n_q_PZ-254V) |
-|  2  |  P2                  | H2        | HDR-TH_4P-P2.54-V-M |     1    | [Link](https://www.lcsc.com/product-detail/C2691448.html?s_z=n_q_PZ-254V) |
-|  3  | XDZ254-1-02-Z-2.5-G1 | J1,J2,J3  | HDR-TH_2P-P2.54-V-M |     3    | [Link](https://www.lcsc.com/product-detail/C492401.html?s_z=n_q_l_HDR-TH_4P-P2.54-V-M) |
-|  4  | SFP插座-20PINSFP 	   | P1        | CONN-SMD_SFP-20PIN  |     1    | [Link](https://www.lcsc.com/product-detail/C404108.html?s_z=n_q_t_SFP) |
-|  5  | HC-SFP-01L           | U1        | HC-SFP-01L          |     1    | [Link](https://www.lcsc.com/product-detail/C42418478.html?s_z=n_q_t_SFP) |
-|  6  | 4.7kΩ	               | R1,R2,R3  |   R0805             |     3    | [Link](https://www.lcsc.com/product-detail/C19696946.html?s_z=n_q_t_resistor%2520smd) |
+| ID  |  Name                | Footprint | Designator    | Quantity | LCSC link |
+|:---:| :---                 | :---      | :---          |  :---:   |   :---:   |
+|  1  |  P1                  | H1        | PZ254V-11-04P |     1    | [Link](https://www.lcsc.com/product-detail/C2691448.html?s_z=n_q_PZ-254V) |
+|  2  |  P2                  | H2        | PZ254V-11-04P |     1    | [Link](https://www.lcsc.com/product-detail/C2691448.html?s_z=n_q_PZ-254V) |
+|  3  | XDZ254-1-02-Z-2.5-G1 | J1,J2,J3  | PZ254V-11-02P |     3    | [Link](https://www.lcsc.com/product-detail/C492401.html?s_z=n_q_l_HDR-TH_4P-P2.54-V-M) |
+|  4  | SFP插座-20PINSFP 	   | P1        | KSP20LG154    |     1    | [Link](https://www.lcsc.com/product-detail/C404108.html?s_z=n_q_t_SFP) |
+|  5  | HC-SFP-01L           | U1        | HCSFP01       |     1    | [Link](https://www.lcsc.com/product-detail/C42418478.html?s_z=n_q_t_SFP) |
+|  6  | 4.7kΩ	               | R1,R2,R3  | R0805         |     3    | [Link](https://www.lcsc.com/product-detail/C19696946.html?s_z=n_q_t_resistor%2520smd) |
 
 ### Printed circuit board
 
 ![PCB](img/sfp-adapter-pcb.png)
+
+
+You can download the Gerber file to order this PCB [here](https://github.com/bigbigmdm/SFP-Master-Hardware/blob/main/gerber/Gerber_CH341A_SFP_ADAPTER_PCB_CH341A_SFP_ADAPTER_2024-11-22.zip).
+
+You can see or downloading Kicad project by [Arend Jan Kramer](https://github.com/ArendJanKramer) [here](https://github.com/bigbigmdm/SFP-Master-Hardware/blob/main/kicad-adapter).
+
+You can this project in OSWHLAB (EasyEDA) [here](https://oshwlab.com/einkreader/ch341a_sfp_adapter)
 
 ## SFP-master device
 
