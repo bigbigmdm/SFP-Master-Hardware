@@ -22,6 +22,16 @@ This adapter must be connected to the section of the CH341 programmer's ZIF sock
 
 Jumpers J1 to J3 (TxPWR, RxPWR, TxEN) must be installed initially. They are used to supply power to the SFP module. If you want to program a module with hardware write protection, remove one of the jumpers and try to program the module. If it fails, remove the other jumper and repeat the operation.
 
+Bill of material:
+
+| ID  |  Name                | Footprint | Designator          | Quantity |
+|:---:| :---                 | :---      | :---                |  :---:   |
+|  1  |  P1                  | H1        | HDR-TH_4P-P2.54-V-M |     1    |
+|  2  |  P2                  | H2        | HDR-TH_4P-P2.54-V-M |     1    |
+|  3  | XDZ254-1-02-Z-2.5-G1 | J1,J2,J3  | HDR-TH_2P-P2.54-V-M |     3    |
+|  4  | SFP插座-20PINSFP 	   | P1        | CONN-SMD_SFP-20PIN  |     1    |
+|  5  | 4.7kΩ	               | R1,R2,R3  |   R0805             |     3    |
+
 ### Printed circuit board
 
 ![PCB](img/sfp-adapter-pcb.png)
