@@ -11,6 +11,6 @@ The hardware part of SFP-Master can be assembling in two variants:
 
 ## Adapter
 
-![Adapter](img/adapter.h.png)
+![Adapter](img/adapter-h.png)
 
 ## SFP-master device
