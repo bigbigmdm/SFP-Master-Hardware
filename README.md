@@ -63,5 +63,11 @@ Bill of material:
 
 | ID  |  Name                | Footprint | Designator    | Quantity | LCSC link |
 |:---:| :---                 | :---      | :---          |  :---:   |   :---:   |
-| 1   | 100nF                | C1,C2,C4  | C0805         |     3    | {Link](https://www.lcsc.com/product-detail/C344180.html?s_z=s_q_t_100NF%2520C0805) |
-
+|  1  | 100nF                | C1,C2,C4  | C0805         |     3    | [Link](https://www.lcsc.com/product-detail/C344180.html?s_z=s_q_t_100NF%2520C0805) |
+|  2  | 15pF                 | C5,C6     | C0805         |     2    | [Link](https://www.lcsc.com/product-detail/C2171919.html?s_z=n_q_t_15PF%2520C0805) |
+|  3  | 5A                   | F1        | F0805         |     1    | {Link](https://www.lcsc.com/product-detail/C3159342.html?s_z=n_q_t_5A%2520F0805&spm=wm.fly.bg.0.xh&lcsc_vid=QFRaVldVRQUPUVRWQVJZBlNTQAQPX1VSRVhfUFcCRVgxVlNfRlRaX1FUQFJdVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D) |
+|  4  | XDZ254-1-02-Z-2.5-G1 | J1,J2,J3  | PZ254V-11-02P |     3    | [Link](https://www.lcsc.com/product-detail/C492401.html?s_z=n_q_l_HDR-TH_4P-P2.54-V-M) |
+|  5  | SFP插座-20PINSFP 	   | P1        | KSP20LG154    |     1    | [Link](https://www.lcsc.com/product-detail/C404108.html?s_z=n_q_t_SFP) |
+|  6  | 4.7kΩ	               | R1,R2,R3  | R0805         |     3    | [Link](https://www.lcsc.com/product-detail/C19696946.html?s_z=n_q_t_resistor%2520smd) |
+|  7  | HC-SFP-01L           | U1        | HCSFP01       |     1    | [Link](https://www.lcsc.com/product-detail/C42418478.html?s_z=n_q_t_SFP) |
+|  8  | AMS1117-3.3V         | U2        | SOT-223-4_L6.5-W3.5-P2.30-LS7.0-BR | 1 | [Link](https://www.lcsc.com/product-detail/C20611856.html?s_z=n_q_AMS1117-3.3V&spm=wm.fly.bg.6.stp&lcsc_vid=QFRaVldVRQUPUVRWQVJZBlNTQAQPX1VSRVhfUFcCRVgxVlNfRlRaX1xUQFVXUjsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXRVVADxALGw%3D%3D) |
