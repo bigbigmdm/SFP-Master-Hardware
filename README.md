@@ -14,7 +14,11 @@ The hardware part of SFP-Master can be assembling in two variants:
 ![Adapter](img/adapter_h.png)
 This adapter must be connected to the section of the CH341 programmer's ZIF socket marked with the "24xx" symbols. At the same time, the ZIF socket lever must fit into the oval cutout on the adapter board.
 
-![Adapter](img/connection.jpg)
+![Connection](img/connection.jpg)
+
+### Schematic diagram
+
+![Adapter schematic](img/sfp-adapter-sch.png)
 
 ## SFP-master device
 
