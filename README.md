@@ -42,7 +42,7 @@ You can download the Gerber file to order this PCB [here](https://github.com/big
 
 You can see or downloading Kicad project by [Arend Jan Kramer](https://github.com/ArendJanKramer) [here](https://github.com/bigbigmdm/SFP-Master-Hardware/blob/main/kicad-adapter).
 
-You can this project in OSWHLAB (EasyEDA) [here](https://oshwlab.com/einkreader/ch341a_sfp_adapter)
+You can view this project in OSHWLab (EasyEDA) [here](https://oshwlab.com/einkreader/ch341a_sfp_adapter)
 
 ## SFP-master device
 
