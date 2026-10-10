@@ -78,5 +78,14 @@ Bill of material:
 | 13  | 2.2kΩ                | R5,R6,R4  | R0805         |     3    | [Link](https://www.lcsc.com/product-detail/C2907234.html) |
 | 14  | CH341A               | U4        | SOIC-28_L17.9-W7.5-P1.27-LS10.3-BL | 1 | [Link](https://www.lcsc.com/product-detail/C13517.html) |
 
+### Printed circuit board
+
+![PCB](img/sfp-master-pcb.png)
+
+You can download the Gerber file to order this PCB [here](https://github.com/bigbigmdm/SFP-Master-Hardware/blob/main/gerber/Gerber_SFP-Master_PCB_SFP-Master_2_2026-04-07.zip).
+
+You can view this project in OSHWLab (EasyEDA) [here](https://oshwlab.com/einkreader/sfp-master))
+
+
 
 To be continued ...
