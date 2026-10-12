@@ -86,6 +86,11 @@ You can download the Gerber file to order this PCB [here](https://github.com/big
 
 You can view this project in OSHWLab (EasyEDA) [here](https://oshwlab.com/einkreader/sfp-master)
 
+### Case (3D-print)
 
+| ID  |  Description | STL                         | FreeCad   |
+|:---:| :---         |  :---:                      |   :---:   |
+|  1  |  Upper half  | [SFP_MASTER_up_6_005.stl](https://github.com/bigbigmdm/SFP-Master-Hardware/blob/main/case/SFP_MASTER_up_6_005.stl) | [SFP_MASTER_up_6.FCStd](https://github.com/bigbigmdm/SFP-Master-Hardware/blob/main/case/SFP_MASTER_up_6.FCStd)   |
+|  2  |  Lower half  | [SFP_MASTER_down-6.stl](https://github.com/bigbigmdm/SFP-Master-Hardware/blob/main/case/SFP_MASTER_down-6.stl)   | [SFP_MASTER_down-6.FCStd](https://github.com/bigbigmdm/SFP-Master-Hardware/blob/main/case/SFP_MASTER_down-6.FCStd) |
 
 To be continued ...
