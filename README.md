@@ -93,4 +93,9 @@ You can view this project in OSHWLab (EasyEDA) [here](https://oshwlab.com/einkre
 |  1  |  Upper half  | [SFP_MASTER_up_6_005.stl](https://github.com/bigbigmdm/SFP-Master-Hardware/blob/main/case/SFP_MASTER_up_6_005.stl) | [SFP_MASTER_up_6.FCStd](https://github.com/bigbigmdm/SFP-Master-Hardware/blob/main/case/SFP_MASTER_up_6.FCStd)   |
 |  2  |  Lower half  | [SFP_MASTER_down-6.stl](https://github.com/bigbigmdm/SFP-Master-Hardware/blob/main/case/SFP_MASTER_down-6.stl)   | [SFP_MASTER_down-6.FCStd](https://github.com/bigbigmdm/SFP-Master-Hardware/blob/main/case/SFP_MASTER_down-6.FCStd) |
 
-To be continued ...
+## Licensing
+
+Copyright (C) 2024 - 2026 [Mikhail Medvedev](https://github.com/bigbigmdm), 2026 [Arend Jan Kramer](https://github.com/ArendJanKramer).
+Software part of this project use [GPL-3+ License](https://www.gnu.org/licenses/gpl-3.0.html),
+hardware part of this project use [CERN-OHL-S v2](https://spdx.org/licenses/CERN-OHL-S-2.0.html),
+3D-printer files of this project use [ CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
