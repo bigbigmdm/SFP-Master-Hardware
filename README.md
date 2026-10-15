@@ -82,6 +82,8 @@ Bill of material:
 
 ![PCB](img/sfp-master-pcb.png)
 
+![PCB](img/10xpcb.png)
+
 You can download the Gerber file to order this PCB [here](https://github.com/bigbigmdm/SFP-Master-Hardware/blob/main/gerber/Gerber_SFP-Master_PCB_SFP-Master_2_2026-04-07.zip).
 
 You can view this project in OSHWLab (EasyEDA) [here](https://oshwlab.com/einkreader/sfp-master)
